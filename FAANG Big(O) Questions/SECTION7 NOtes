@@ -1,0 +1,3 @@
+Refer to video 80 once again and take notes
+
+### If a forloop is inside another for loop, and is in a definite range (ex: {inside a forloop} for i in range(1,1000)) then the runtime complexity is constant i.e O(1)
